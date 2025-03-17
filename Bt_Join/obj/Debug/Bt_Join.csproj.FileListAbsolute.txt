@@ -1,0 +1,7 @@
+E:\LaptrinhC#\Bt_Join\bin\Debug\Bt_Join.exe.config
+E:\LaptrinhC#\Bt_Join\bin\Debug\Bt_Join.exe
+E:\LaptrinhC#\Bt_Join\bin\Debug\Bt_Join.pdb
+E:\LaptrinhC#\Bt_Join\obj\Debug\Bt_Join.csproj.AssemblyReference.cache
+E:\LaptrinhC#\Bt_Join\obj\Debug\Bt_Join.csproj.CoreCompileInputs.cache
+E:\LaptrinhC#\Bt_Join\obj\Debug\Bt_Join.exe
+E:\LaptrinhC#\Bt_Join\obj\Debug\Bt_Join.pdb
