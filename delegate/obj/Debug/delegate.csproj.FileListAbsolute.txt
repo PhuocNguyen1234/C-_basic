@@ -1,0 +1,7 @@
+E:\LaptrinhC#\delegate\bin\Debug\@delegate.exe.config
+E:\LaptrinhC#\delegate\bin\Debug\@delegate.exe
+E:\LaptrinhC#\delegate\bin\Debug\@delegate.pdb
+E:\LaptrinhC#\delegate\obj\Debug\delegate.csproj.AssemblyReference.cache
+E:\LaptrinhC#\delegate\obj\Debug\delegate.csproj.CoreCompileInputs.cache
+E:\LaptrinhC#\delegate\obj\Debug\@delegate.exe
+E:\LaptrinhC#\delegate\obj\Debug\@delegate.pdb
