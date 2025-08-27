@@ -1,0 +1,15 @@
+E:\LaptrinhC#\SLinQ\bin\Debug\net8.0\SLinQ.exe
+E:\LaptrinhC#\SLinQ\bin\Debug\net8.0\SLinQ.deps.json
+E:\LaptrinhC#\SLinQ\bin\Debug\net8.0\SLinQ.runtimeconfig.json
+E:\LaptrinhC#\SLinQ\bin\Debug\net8.0\SLinQ.dll
+E:\LaptrinhC#\SLinQ\bin\Debug\net8.0\SLinQ.pdb
+E:\LaptrinhC#\SLinQ\obj\Debug\net8.0\SLinQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\LaptrinhC#\SLinQ\obj\Debug\net8.0\SLinQ.AssemblyInfoInputs.cache
+E:\LaptrinhC#\SLinQ\obj\Debug\net8.0\SLinQ.AssemblyInfo.cs
+E:\LaptrinhC#\SLinQ\obj\Debug\net8.0\SLinQ.csproj.CoreCompileInputs.cache
+E:\LaptrinhC#\SLinQ\obj\Debug\net8.0\SLinQ.sourcelink.json
+E:\LaptrinhC#\SLinQ\obj\Debug\net8.0\SLinQ.dll
+E:\LaptrinhC#\SLinQ\obj\Debug\net8.0\refint\SLinQ.dll
+E:\LaptrinhC#\SLinQ\obj\Debug\net8.0\SLinQ.pdb
+E:\LaptrinhC#\SLinQ\obj\Debug\net8.0\SLinQ.genruntimeconfig.cache
+E:\LaptrinhC#\SLinQ\obj\Debug\net8.0\ref\SLinQ.dll
